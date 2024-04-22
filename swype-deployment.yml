@@ -21,4 +21,5 @@ spec:
           resources:
             limits:
               cpu: "1"
-              memory: "4Gi"
+              memory: "2Gi"
+      restartPolicy: Always

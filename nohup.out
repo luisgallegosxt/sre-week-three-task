@@ -1,0 +1,7 @@
+Total restarts for swype-app: 2
+Restart count under limit, checking again in 60 seconds.
+Total restarts for swype-app: 2
+Restart count under limit, checking again in 60 seconds.
+Total restarts for swype-app: 3
+deployment.apps/swype-app scaled
+Deployment swype-app scaled down to 0 due to excessive restarts.
